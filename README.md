@@ -22,7 +22,6 @@ Please run the extracting-data.py file on the SFU cluster, ensuring you have all
 
 ---
 
-## File Structure
 ## Requirements
 The project relies on the following Python libraries:
 
