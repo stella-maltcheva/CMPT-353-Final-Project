@@ -17,7 +17,7 @@ This project explores Reddit comment data to investigate patterns in user engage
 The dataset consists of Reddit comments and submissions.
 
 ## Instructions
-Please run the extracting-data.py file on the SFU cluster, ensuring you have all libraries installed. An output directory is required for this file and it will extract around 40,000 comments from 9 specific subreddits in three categories. Afterwards, run the final-analysis.py file. This file requires an input directory (where you saved reddit subset) and output directory for plots and visualizations.
+Please run the extracting-data.py file on the SFU cluster, ensuring you have all libraries installed. An output directory is required for this file and it will extract around 40,000 comments from 9 specific subreddits in three categories. Afterwards, run the final-analysis.py file. This file requires an input directory (where you saved the Reddit subset) and an output directory for plots and visualizations.
 
 
 ---
